@@ -125,7 +125,7 @@ a {
 
 .bottom p {
   line-height: 1.4;
-  font-sze: 0.875rem;
+  font-size: 0.875rem;
 }
 
 @media all and (min-width: 1440px) {
@@ -161,6 +161,9 @@ a {
   .mid h2 {
     font-size: 1.2rem;
   }
+  .btn{
+    width: 85%
+  };
 
   .bottom {
     grid-area: 2/2/3/3;
