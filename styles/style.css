@@ -131,6 +131,7 @@ a {
 @media all and (min-width: 1440px) {
   .card {
     padding: 2rem;
+    border-radius: 0 0 0.5rem 0;
   }
 
   .container {
@@ -168,7 +169,7 @@ a {
 
   .bottom {
     grid-area: 2/2/3/3;
-    border-radius: 0 0 0.5rem 0;
+    border-radius: 0 0 0 0rem;
   }
 
   .bottom p {
