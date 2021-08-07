@@ -156,6 +156,7 @@ a {
   .mid {
     grid-area: 2 / 1 / 3 / 2;
     border-radius: 0 0 0 0.5rem;
+    padding-right: 0;
   }
 
   .mid h2 {
